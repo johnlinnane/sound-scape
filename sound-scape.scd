@@ -1,6 +1,3 @@
-// John Linnane
-//118227214
-// CS6103
 
 // 1. RUN THIS CODE BLOCK FIRST
 
